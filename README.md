@@ -1,18 +1,27 @@
-# 👨‍💻 Data Engineer | Data Analyst | Business Intelligence
+# 👨‍💻 Analytics Engineer | Data Analyst | Business Intelligence
 
-🚀 **Engenharia de Dados | ETL & Pipelines | Python | SQL | Google Cloud | Power BI | Looker Studio | RPA | BI**
+🚀 **Data Analyst | Analytics Engineer | Python | SQL | GCP | BigQuery | Azure | Databricks | Power BI | Looker Studio | ETL**
 
 ## 👋 Sobre mim
 
-Sou **Analista de Inteligência de Mercado** e **Graduando em Ciência de Dados**, com sólida experiência em **processos de Engenharia de Dados**, atuando do início ao fim do pipeline de dados (ETL). Tenho domínio na extração de dados de sistemas ERP, CRM e APIs com Python e SQL, construção de Data Warehouses, processamento em staging area, criação de dataflows, modelagem de dados e desenvolvimento de dashboards com Power BI e Looker Studio.
+Analista de Dados / Analytics Engineer | Formado em Ciência de Dados
+
+Atuo com Engenharia de Dados e BI, lidando com grandes volumes de dados.
+
+Tenho experiência em processos de ETL de ponta a ponta em ambientes On-Premise e Cloud, como SQL Server, GCP e Azure. 
+Já desenvolvi Pipelines completos de Marketing Digital em ambiente GCP, utilizando BigQuery, Dataform, Cloud Run, Cloud Storage, Cloud Scheduler e IAM, extraindo dados de de fontes como GA4, Meta Ads, Google Ads, ERP TOTVS e CRM's, e entregando dashboards em Looker Studio e Power BI.
+
+Atualmente, faço parte do time de BI da Atento, lidando com clientes como META, Itaú, Alelo, Qualicorp e Mercado Livre, onde atuo com processos ETL em ambientes On-Premise, com SQL Server, Visual Studio Code, lidando com Jobs e Procedures, armazenando dados em camadas Raw, Stage e Mart. também atuo em demandas em ambiente Azure, com Python/Databricks.
+
+Desenvolvo e mantenho relatórios em Power BI para a área de atendimento ao cliente, aplicando DAX avançado para criar tabelas calculadas e realizando modelagem de dados no modelo Star Schema.
 
 ## 🧠 Habilidades Técnicas
 
 - **Linguagens & Ferramentas:**  
-  `Python`, `SQL`, `Power BI`, `Looker Studio`, `AppScript`, `Excel Avançado`
+  `Python`, `SQL`, `Power BI`, `Looker Studio`
 
 - **Cloud & Infraestrutura:**  
-  `Google Cloud Platform (GCP)`, `BigQuery`, `Cloud Storage`, `Cloud Scheduler`, `Kubernetes`
+  `Google Cloud Platform (GCP)`, `Azure`
 
 - **ETL & Engenharia de Dados:**  
   - Extração de dados via SQL e API (Python)
@@ -23,20 +32,6 @@ Sou **Analista de Inteligência de Mercado** e **Graduando em Ciência de Dados*
 
 - **RPA & Automação com Python:**  
   - `Selenium`, `BeautifulSoup`, `PyAutoGUI`
-
-## 📊 Projetos de BI
-
-- Desenvolvimento de dashboards em Power BI e Looker Studio para:
-  - Marketing digital
-  - Setor acadêmico
-  - Inteligência de mercado
-- Geração de insights e apoio à tomada de decisão
-
-## ⚙️ Experiências Relevantes
-
-- Construção e manutenção de pipelines ETL, automatizando fluxos de dados com foco em performance e escalabilidade
-- Migração de dados e relatórios na implementação de novo CRM, assegurando integridade e continuidade das informações
-- Otimização da análise de grandes volumes de dados com BigQuery e Google Cloud
 
 ## 📜 Certificações
 
